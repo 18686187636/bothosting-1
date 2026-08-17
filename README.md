@@ -1,4 +1,4 @@
-## 🚀 Bot-hosting 自动续期（GitHub Actions）
+## 🚀 Bot-hosting 自动续期（GitHub Actions）单账号版本
 
 这是一个基于 GitHub Actions 的自动化脚本，用于定时登录自动续期 [Bot-hosting](https://bot-hosting.net) 服务。
 
